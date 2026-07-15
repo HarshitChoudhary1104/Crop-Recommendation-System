@@ -1,0 +1,9 @@
+.git
+.idea
+__pycache__
+*.ipynb
+.venv
+venv
+env
+Dockerfile
+.dockerignore
